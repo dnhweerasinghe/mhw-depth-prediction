@@ -1,0 +1,23 @@
+# data download and preprocessing
+cdsapi
+copernicusmarine
+cfgrib
+netCDF4
+xarray
+scipy
+webdavclient3
+cartopy
+# modelling and evaluation
+numpy
+pandas
+pyarrow
+scikit-learn
+lightgbm
+tensorflow
+torch
+betacal
+shap
+psutil
+# plotting
+matplotlib
+seaborn
