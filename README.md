@@ -9,7 +9,7 @@ The study predicts marine heatwave (MHW) occurrence at four depth configurations
 ## Repository layout
 
 ```
-notebooks/
+notebook files/
   01_data/
     atmospheoric-dataset-creation.ipynb      ERA5 download (CDS API), daily means, wind speed
     subsurface-dataset-creation.ipynb        CMEMS download, thickness-weighted layer means
