@@ -7,7 +7,7 @@ authors:
   - family-names: Viswakula
     given-names: S.
 license: MIT
-repository-code: "https://github.com/hasansin/mhw-depth-prediction"
+repository-code: "https://github.com/dnhweerasinghe/mhw-depth-prediction"
 preferred-citation:
   type: conference-paper
   title: "Depth-Resolved Marine Heatwave Prediction in the Levantine Basin Using Machine Learning and Explainable Artificial Intelligence"
